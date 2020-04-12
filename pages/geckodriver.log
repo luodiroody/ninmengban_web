@@ -1,0 +1,34 @@
+1585974586571	geckodriver	INFO	Listening on 127.0.0.1:52409
+1585974728691	geckodriver	INFO	Listening on 127.0.0.1:52459
+1585976247311	geckodriver	INFO	Listening on 127.0.0.1:49290
+1585984356839	geckodriver	INFO	Listening on 127.0.0.1:59330
+1585984357089	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.PicEg0fD8p9W
+1585984357096	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1585984357332	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59335
+1585984360684	Marionette	INFO	Listening on port 59335
+1585984492280	addons.productaddons	WARN	File download failed: 0x80004004
+1585984492340	addons.productaddons	WARN	File download failed: 0x80040111
+1585984494310	geckodriver	INFO	Listening on 127.0.0.1:59382
+1585984494848	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.BrLo36ZiCJUv
+1585984494852	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1585984494969	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59387
+1585984497736	Marionette	INFO	Listening on port 59387
+1585984596054	addons.productaddons	WARN	File download failed: 0x80004004
+1585984596061	addons.productaddons	WARN	File download failed: 0x80040111
+1585984598358	geckodriver	INFO	Listening on 127.0.0.1:59453
+1585984598968	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.pXeAzM5zSmiL
+1585984598973	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1585984598999	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59458
+1585984602230	Marionette	INFO	Listening on port 59458
+1585990902517	geckodriver	INFO	Listening on 127.0.0.1:60666
+1585990903959	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.jYNAd3VbD5dA
+1585990903963	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1585990903989	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60672
+1585990906859	Marionette	INFO	Listening on port 60672
+1585990983904	addons.productaddons	WARN	File download failed: 0x80004004
+1585990983964	addons.productaddons	WARN	File download failed: 0x80040111
+1585990985375	geckodriver	INFO	Listening on 127.0.0.1:60730
+1585990985998	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.sgqqFI9ja6My
+1585990986002	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1585990986179	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60735
+1585990988833	Marionette	INFO	Listening on port 60735

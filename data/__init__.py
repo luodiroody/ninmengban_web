@@ -1,0 +1,18 @@
+'''
+ AUTH:RODDY
+ DATE:2020/4/4
+ TIME:11:01
+ FILE:__init__.py.py
+ '''
+userorpwd_error=[
+    {'phone':'','pwd':'123456','expect':'请输入手机号'},
+    {'phone':'1309856','pwd':'','expect':'请输入正确的手机号'},
+    {'phone':'18684720553','pwd':'','expect':'请输入密码'}
+]
+userandpwd_error=[
+    {'phone':'18684720553','pwd':'123456','expect':'帐号或密码错误!'},
+    {'phone':'18684720588','pwd':'123456','expect':'此账号没有经过授权，请联系管理员!'}
+]
+userandpwd_success=[
+    {'phone':'18684720553','pwd':'python','expect':''}
+]
