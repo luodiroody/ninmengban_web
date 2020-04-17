@@ -258,3 +258,137 @@
 1586000013755	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
 1586000013805	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49478
 1586000018395	Marionette	INFO	Listening on port 49478
+1586684645732	geckodriver	INFO	Listening on 127.0.0.1:51047
+1586684646528	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.qKMBimH4TUzX
+1586684646531	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1586684646812	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51057
+1586684658103	Marionette	INFO	Listening on port 51057
+1586684913000	geckodriver	INFO	Listening on 127.0.0.1:51148
+1586684913285	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.DhyTC1XrDagP
+1586684913289	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1586684913445	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51153
+1586684917441	Marionette	INFO	Listening on port 51153
+1586685323278	geckodriver	INFO	Listening on 127.0.0.1:51297
+1586685324692	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.g2wfJ9LRMZC0
+1586685324697	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1586685324762	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51303
+1586685328014	Marionette	INFO	Listening on port 51303
+1586685538190	geckodriver	INFO	Listening on 127.0.0.1:51408
+1586685538410	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.HnuHAJWkhFWZ
+1586685538415	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1586685538716	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51413
+1586685541723	Marionette	INFO	Listening on port 51413
+JavaScript error: http://120.78.128.25:8765/Public/frontend/scripts/app/plugins/calculator.js, line 1: TypeError: f is undefined
+JavaScript error: http://120.78.128.25:8765/Public/frontend/scripts/app/plugins/calculator.js, line 1: TypeError: f is undefined
+JavaScript error: http://120.78.128.25:8765/Public/frontend/scripts/app/plugins/calculator.js, line 1: TypeError: f is undefined
+1586685712793	geckodriver	INFO	Listening on 127.0.0.1:51505
+1586685713376	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.b1Tr0ElQsVNo
+1586685713380	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1586685713406	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51510
+1586685718081	Marionette	INFO	Listening on port 51510
+1586685787788	geckodriver	INFO	Listening on 127.0.0.1:51603
+1586685788252	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.7lUdV6yBaCfI
+1586685788257	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1586685788283	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51608
+1586685791123	Marionette	INFO	Listening on port 51608
+JavaScript error: http://120.78.128.25:8765/Public/frontend/scripts/app/controllers/index.js, line 1: ReferenceError: echarts is not defined
+JavaScript error: http://120.78.128.25:8765/Public/frontend/scripts/app/controllers/index.js, line 1: ReferenceError: echarts is not defined
+1586688240404	geckodriver	INFO	Listening on 127.0.0.1:51924
+1586688241619	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.GkA3c9JwtXVZ
+1586688241626	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1586688241713	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51931
+1586688248062	Marionette	INFO	Listening on port 51931
+JavaScript error: http://120.78.128.25:8765/Public/frontend/scripts/app/controllers/index.js, line 1: ReferenceError: echarts is not defined
+1586695055712	geckodriver	INFO	Listening on 127.0.0.1:52311
+1586695056335	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.Li0LMb9vJUUl
+1586695056339	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1586695057260	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52317
+1586695066575	Marionette	INFO	Listening on port 52317
+JavaScript error: http://120.78.128.25:8765/Public/frontend/scripts/app/plugins/calculator.js, line 1: TypeError: f is undefined
+1586697163777	geckodriver	INFO	Listening on 127.0.0.1:62822
+1586697164127	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.MO4pEqA5HPL8
+1586697164131	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1586697164560	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62828
+1586697177763	Marionette	INFO	Listening on port 62828
+JavaScript error: http://120.78.128.25:8765/Public/frontend/scripts/app/plugins/calculator.js, line 1: TypeError: f is undefined
+JavaScript error: http://120.78.128.25:8765/Public/frontend/scripts/app/??views/join.js,views/login.js,plugins/checkLogin.js, line 1: TypeError: Backbone is undefined
+JavaScript error: http://120.78.128.25:8765/Public/frontend/scripts/app/plugins/calculator.js, line 1: TypeError: f is undefined
+JavaScript error: http://120.78.128.25:8765/Member/index.html, line 838: ReferenceError: avalon is not defined
+JavaScript error: http://120.78.128.25:8765/Public/frontend/scripts/app/plugins/calculator.js, line 1: TypeError: f is undefined
+1586697496878	geckodriver	INFO	Listening on 127.0.0.1:62992
+1586697497429	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.Rp58MyKfj8Hy
+1586697497433	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1586697497527	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62997
+1586697500496	Marionette	INFO	Listening on port 62997
+JavaScript error: http://120.78.128.25:8765/Public/frontend/scripts/app/plugins/calculator.js, line 1: TypeError: f is undefined
+1586697674697	geckodriver	INFO	Listening on 127.0.0.1:63115
+1586697675229	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.9G12vx2imsQW
+1586697675233	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1586697675259	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63120
+1586697678859	Marionette	INFO	Listening on port 63120
+1586698063079	geckodriver	INFO	Listening on 127.0.0.1:63300
+1586698063618	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.myTR5DxMGzXm
+1586698063623	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1586698063766	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63305
+1586698066554	Marionette	INFO	Listening on port 63305
+1586698260575	geckodriver	INFO	Listening on 127.0.0.1:63473
+1586698260912	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.USU2YJb3Y4Y7
+1586698260916	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1586698261125	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63478
+1586698264031	Marionette	INFO	Listening on port 63478
+1586699472502	geckodriver	INFO	Listening on 127.0.0.1:63722
+1586699473094	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.9SJws0EqopfN
+1586699473098	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1586699473124	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63728
+1586699476061	Marionette	INFO	Listening on port 63728
+JavaScript error: http://120.78.128.25:8765/Public/frontend/scripts/app/controllers/index.js, line 1: ReferenceError: echarts is not defined
+1586700090207	geckodriver	INFO	Listening on 127.0.0.1:63845
+1586700090431	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.sk6ZlJLwaZNS
+1586700090435	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1586700091419	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63850
+1586700096692	Marionette	INFO	Listening on port 63850
+1586700875882	geckodriver	INFO	Listening on 127.0.0.1:64173
+1586700876404	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.ANF8KmsL52Az
+1586700876409	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1586700876661	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64178
+1586700879512	Marionette	INFO	Listening on port 64178
+1586701041620	geckodriver	INFO	Listening on 127.0.0.1:64443
+1586701042207	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.3oGvc9gEYnFw
+1586701042211	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1586701042487	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64448
+1586701045312	Marionette	INFO	Listening on port 64448
+JavaScript error: http://120.78.128.25:8765/Public/frontend/scripts/app/controllers/index.js, line 1: ReferenceError: echarts is not defined
+1586701806079	geckodriver	INFO	Listening on 127.0.0.1:64827
+1586701806656	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.aX7X1qsRIMYa
+1586701806660	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1586701806686	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64833
+1586701809556	Marionette	INFO	Listening on port 64833
+JavaScript error: http://120.78.128.25:8765/Public/frontend/scripts/app/plugins/calculator.js, line 1: TypeError: f is undefined
+JavaScript error: http://120.78.128.25:8765/Public/frontend/scripts/app/controllers/investDetail.js, line 13: TypeError: $(...).fancybox is not a function
+1586702147671	geckodriver	INFO	Listening on 127.0.0.1:64945
+1586702148222	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.1dFfEfkTa4Zh
+1586702148227	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1586702148419	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64951
+1586702153721	Marionette	INFO	Listening on port 64951
+1586702265090	geckodriver	INFO	Listening on 127.0.0.1:65216
+1586702265708	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.y1UrQIkMpMzK
+1586702265712	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1586702265875	geckodriver::marionette	INFO	Connecting to Marionette on localhost:65221
+1586702269172	Marionette	INFO	Listening on port 65221
+1586702892969	geckodriver	INFO	Listening on 127.0.0.1:49351
+1586702893595	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.Pwa0diJHjOvQ
+1586702893600	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1586702893764	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49357
+1586702895350	Marionette	INFO	Listening on port 49357
+1586703082327	geckodriver	INFO	Listening on 127.0.0.1:49459
+1586703082874	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.fQK9dIg51Oou
+1586703082878	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1586703083026	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49464
+1586703085961	Marionette	INFO	Listening on port 49464
+JavaScript error: http://120.78.128.25:8765/Public/frontend/scripts/app/controllers/index.js, line 1: ReferenceError: echarts is not defined
+1586703252237	geckodriver	INFO	Listening on 127.0.0.1:49627
+1586703252697	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.G2lOrjxVVWHW
+1586703252702	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1586703252865	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49632
+1586703254974	Marionette	INFO	Listening on port 49632
+JavaScript error: http://120.78.128.25:8765/Public/frontend/scripts/app/controllers/index.js, line 1: ReferenceError: echarts is not defined

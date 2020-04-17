@@ -20,7 +20,7 @@ class LoginPage(Basefunc):
     local_submit=(By.XPATH,'//button[@type="button"]')
     local_userorpwd_error=(By.XPATH,'//div[@class="form-error-info"]')
     local_userandpwd_error=(By.XPATH,'//div[@class="layui-layer-content"]')
-    def login(self,username,pwd):
+    def login(self,username='18684720553',pwd='python'):
         self.findele_send(local=self.local_user,text=username)
         self.findele_send(local=self.local_pwd,text=pwd)
         self.findele_click(local=self.local_submit)

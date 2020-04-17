@@ -12,14 +12,14 @@ from pywinauto import application
 from common.handlelog import log
 import  time
 class Basefunc ():
-    def __init__(self,driver:webdriver.Firefox):
+    def __init__(self,driver):
         self.driver =driver
     '''查找单个元素'''
     def findele (self,local):
         if isinstance(local,tuple):
             print('正在通过>>>>'+local[0]+'查找元素>>>>'+local[1])
             log.info('正在通过>>>>'+local[0]+'查找元素>>>>'+local[1])
-            element = WebDriverWait(self.driver,timeout=10).until(lambda x:x.find_element(*local))
+            element = WebDriverWait(self.driver,timeout=30).until(lambda x:x.find_element(*local))
         else :
             print('local参数必须是元组')
         return element
@@ -43,8 +43,8 @@ class Basefunc ():
     def findele_send (self,local,text):
         self.findele(local).send_keys(text)
     '''执行js脚本'''
-    def execute_js (self,js):
-        self.driver.execute_script(js)
+    def execute_js (self,js,*args):
+        self.driver.execute_script(js,*args)
     '''滑动到底部'''
     def js_scroll_end(self):
         js_end = 'window.scrollTo(0,document.body.scrollHeight)'
@@ -75,6 +75,9 @@ class Basefunc ():
         app.connect(class_name='#32770')
         app['Dialog']['Edit1'].type_key(file_path)
         app['Dialog']['Button1'].click()
+    '''截图'''
+    def sc_(self,filename):
+        self.driver.save_screenshot(filename=filename)
 if __name__ =='__main__':
     from selenium import webdriver
     driver = webdriver.Firefox()
